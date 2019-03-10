@@ -1,2 +1,2 @@
 # cheatsheets
-A repo for quick code references
+A repo for quick bootstrap references
